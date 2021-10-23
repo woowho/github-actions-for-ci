@@ -1,1 +1,2 @@
-name: Alex's Approval Workflow
+name: Team awesome's approval workflow
+on: pull_request_review
